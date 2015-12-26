@@ -1,6 +1,5 @@
 # Kaggle
 ## Digit Recognizer
 
-Study 2주차- 이동준 
-
+Study 2 week By Dongjun Lee  
 
