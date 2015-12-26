@@ -1,5 +1,5 @@
-# Kaggle
+# Kaggle Study
 ## Digit Recognizer
 
-Study 2 week By Dongjun Lee  
+2-week By Dongjun Lee  
 
